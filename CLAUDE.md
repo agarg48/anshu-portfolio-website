@@ -18,6 +18,7 @@ Update this secion at the end of every working session
 - All sections built: fixed nav, hero with 3D swirling name ring, marquee strip, About (scroll word-highlight), Skills (drag/tap dial + holographic panel, auto-cycles), Projects (8-card carousel), Contact (liquid glass + Book-a-call form), footer.
 - Content edits go in `js/data.js` (WhatsApp number, form endpoint, skills, projects). Search the codebase for `PLACEHOLDER`.
 - Still needed from Anshumali: hero photo (`assets/images/profile.png`), 8 real projects, phone, email, office address, social links, Formspree endpoint (until set, the form opens WhatsApp pre-filled with the visitor's details).
+- **Live:** https://agarg48.github.io/anshu-portfolio-website/ (repo `agarg48/anshu-portfolio-website`, GitHub Pages from `main` / root). Deploy = commit + `git push`; Pages rebuilds in ~1 min. Keep `css/`, `js/`, `assets/` folders in the repo — uploading only `index.html` breaks styling.
 - Hero title changed (approved by Anshumali): pill now reads "AI Agent Builder · Agentic AI Workflows"; original title "Quantitative Trading Research | Global Financial Analyst" kept as a smaller subtitle under the name.
 
 # SITE STRUCTURE
