@@ -1,0 +1,8 @@
+# Design reference screenshots (third-party designs — keep local, don't publish)
+Refereces/
+
+# OS / editor clutter
+Thumbs.db
+Desktop.ini
+.DS_Store
+.vscode/
